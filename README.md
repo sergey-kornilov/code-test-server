@@ -1,1 +1,1 @@
-# code-magick-server
+# code-test-server
