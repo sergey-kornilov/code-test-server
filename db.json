@@ -13,18 +13,6 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
   "player1": {
     "name": "John",
     "surname": "Big",
@@ -43,4 +31,10 @@
     "coat": "rgb(0, 0, 255)",
     "fire": "rgb(0, 191, 255)"
   },
+    "player4": {
+    "name": "Pony",
+    "surname": "Little",
+    "coat": "rgb(255, 255, 224)",
+    "fire": "rgb(255, 253, 208)",
+    "eyes": "rgb(80, 200, 120)"
 }
