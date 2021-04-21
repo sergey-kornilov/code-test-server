@@ -43,10 +43,4 @@
     "coat": "rgb(0, 0, 255)",
     "fire": "rgb(0, 191, 255)"
   },
-    "player4": {
-    "name": "Pony",
-    "surname": "Little",
-    "coat": "rgb(255, 255, 224)",
-    "fire": "rgb(255, 253, 208)"
-  }
 }
