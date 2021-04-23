@@ -1,0 +1,30 @@
+{
+  "player1": {
+    "name": "John",
+    "surname": "Big",
+    "coat": "rgb(160, 82, 45)",
+    "fire": "rgb(197, 75, 140)",
+    "eyes": "rgb(80, 200, 120)"
+  },
+  "player2": {
+    "name": "Viktor",
+    "surname": "Medved",
+    "coat": "rgb(255, 255, 255)",
+    "fire": "rgb(157, 177, 204)",
+    "eyes": "rgb(80, 200, 120)"
+  },
+   "player3": {
+    "name": "Evan",
+    "surname": "Mister",
+    "coat": "rgb(0, 0, 255)",
+    "fire": "rgb(0, 191, 255)",
+    "eyes": "rgb(80, 200, 120)"
+  },
+    "player4": {
+    "name": "Pony",
+    "surname": "Little",
+    "coat": "rgb(255, 255, 224)",
+    "fire": "rgb(255, 253, 208)",
+    "eyes": "rgb(80, 200, 120)"
+  } 
+}
